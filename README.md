@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hello World 👋</h1>
 
-<!--
-**Dann074/Dann074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<i>Somente um estudante em busca de conhecimento...</i>
 
-Here are some ideas to get you started:
+Bem vindo ao meu perfil do Github.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apenas um adolescente tentando aprender programação por conta própria
+
+<div style="display: inline-block">
+  <a href="https://github.com/Dann074">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dann074&show_icons=true&theme=material-palenight" /><br>
+  </a>
+  <img align="rigth" alt="gif" width="170" src="https://c.tenor.com/3n4HIgnnvpYAAAAC/anime-anime-boy.gif">
+</div>
