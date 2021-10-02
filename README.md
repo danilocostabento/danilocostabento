@@ -15,4 +15,14 @@ Sou apenas um adolescente tentando aprender programação por conta própria
 
 <div style = "disply: inline-block">
   <h3> Atualmente estudando... </h3><br>
-     <img alt = "HTML" width = "60" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt = "HTML" width = "60" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <b>*</b>
+  <img alt = "CSS" width = "60" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <br>
+  <br>
+  <h3> Pretendo estudar</h3><br>
+  <img alt = "JS" width = "60" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <b>*</b>
+  <img alt = "Java" width = "60" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <b>*</b>
+  <img alt = "Python" width = "60" height = "60" src = "https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png">
