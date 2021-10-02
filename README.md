@@ -8,7 +8,11 @@ Sou apenas um adolescente tentando aprender programação por conta própria
 
 <div style = "display: inline-block">
   <a href = "https://github.com/Dann074">
-    <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=Dann074&show_icons=true&theme=material-palenight" /><br>
+    <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=Dann074&show_icons=true&theme=material-palenight"><br>
   </a>
   <img align = "rigth" width = "170" src = "https://c.tenor.com/3n4HIgnnvpYAAAAC/anime-anime-boy.gif">
 </div>
+
+<div style = "disply: inline-block">
+  <h3> Atualmente estudando... </h3><br>
+     <img alt = "HTML" width = "60" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
