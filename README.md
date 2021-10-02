@@ -10,5 +10,5 @@ Sou apenas um adolescente tentando aprender programação por conta própria
   <a href="https://github.com/Dann074">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dann074&show_icons=true&theme=material-palenight" /><br>
   </a>
-  <img align="rigth" alt="gif" width="170" src="https://c.tenor.com/3n4HIgnnvpYAAAAC/anime-anime-boy.gif">
+  <img align="rigth" width="170" src="https://c.tenor.com/3n4HIgnnvpYAAAAC/anime-anime-boy.gif">
 </div>
