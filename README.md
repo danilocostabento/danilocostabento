@@ -28,6 +28,8 @@
   <img alt = "Java" width = "60" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <b>*</b>
   <img alt = "Python" width = "60" height = "60" src = "https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png">
+  <b>*</b>
+  <img alt = "C#" width = "60" height = "60" src = "https://iconape.com/wp-content/png_logo_vector/c.png">
  </div>
  <br>
   <hr>
