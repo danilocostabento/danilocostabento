@@ -5,14 +5,13 @@
 <p align = "center">Bem vindo ao meu perfil do Github.
 
 <p align = "center">Sou apenas um adolescente tentando aprender programação por conta própria
-</p>
 
 <div style = "display: inline-block" align = "center">
   <a href = "https://github.com/Dann074">
-    <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Dann074&show_icons=true&theme=material-palenight"><br>
+    <img src = "https://github-readme-stats.vercel.app/api?username=Dann074&show_icons=true&theme=material-palenight"><br>
   </a>
   <br>
-  <img align = "rigth" width = "250" src = "https://c.tenor.com/3n4HIgnnvpYAAAAC/anime-anime-boy.gif">
+  <img width = "250" src = "https://c.tenor.com/3n4HIgnnvpYAAAAC/anime-anime-boy.gif">
 </div>
 
 <div style = "disply: inline-block" align = "center">
