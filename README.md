@@ -1,4 +1,4 @@
-<bg color = "#000000">
+
 <div style = "display: inline-blocck" align = "center">
   
   <h2>Índice</h2>
