@@ -55,6 +55,8 @@
   <b>*</b>
   <img alt = "CSS" width = "60" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <br>
+  <img alt = "JS" width = "60" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <b>*</b>
   
   <img alt = "pokemon" width = "100" height = "90" src = "https://pa1.narvii.com/6829/cd65454f8b78389eab09ab3857744e74d03004c1_hq.gif">
   </a>
@@ -66,8 +68,6 @@
   
   <h3> Pretendo estudar</h3><br>
   
-  <img alt = "JS" width = "60" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <b>*</b>
   <img alt = "Java" width = "60" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <b>*</b>
   <img alt = "Python" width = "60" height = "60" src = "https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png">
