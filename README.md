@@ -54,9 +54,9 @@
   <img alt = "HTML" width = "60" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <b>*</b>
   <img alt = "CSS" width = "60" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <br>
-  <img alt = "JS" width = "60" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <b>*</b>
+  <img alt = "JS" width = "60" height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <br>
   
   <img alt = "pokemon" width = "100" height = "90" src = "https://pa1.narvii.com/6829/cd65454f8b78389eab09ab3857744e74d03004c1_hq.gif">
   </a>
