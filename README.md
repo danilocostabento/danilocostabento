@@ -58,7 +58,7 @@ Web developer in training. Playing with code at free time and studying by myself
 <img align="left" display="inline" width="220" src="https://i.pinimg.com/originals/a2/48/ec/a248ec9df3ed34369d7aca4c70a9eddb.jpg">
 <br><br><br>
 
-<a href="mailto:danilo_costab@hotmail.com" target="_blank">
+<a href="mailto:danilo_costab@hotmail.com?subject=&body=" target="_blank">
   <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
 
