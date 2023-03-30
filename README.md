@@ -15,7 +15,7 @@ while (noSucces()) {
 
 * * *
 
-Software developer at [@bluesoft](https://github.com/bluesoft). Playing with code, guitar or keyboard in the free time.
+Web developer in training. Playing with code at free time and studying by myself.
 
 ### > Skills
 
