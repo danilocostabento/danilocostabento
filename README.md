@@ -59,7 +59,7 @@ Web developer in training. Playing with code at free time and studying by myself
 
 &nbsp;
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Dann074&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Dann074&hide=html&layout=compact=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 * * *
 
@@ -81,4 +81,4 @@ Web developer in training. Playing with code at free time and studying by myself
 ***
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dann074&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dann074&show_icons=true&theme=merko)
