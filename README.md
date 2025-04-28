@@ -45,7 +45,7 @@ while (noSucces()) {
 
 ## 🎵 My Playlist - Em construção
 
-[![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://deezer.com)
+[![Deezer](https://img.shields.io/badge/Listen_on_Deezer-9933CC?style=for-the-badge&logo=deezer&logoColor=white)](https://deezer.com)
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)
 
