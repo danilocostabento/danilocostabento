@@ -17,7 +17,7 @@ while (noSucces()) {
 
  ## 🧐 About Me
 - 🔭 I’m currently working on **Arduino Projects & Web Development**
-- 🌱 I’m currently learning **Network Architecture & Advanced Python**
+- 🌱 I’m currently learning **Java Language**
 - 💬 Ask me about **JavaScript, React, and Automation**
 - ⚡ Fun fact: **I love turning coffee into code** ☕
 
